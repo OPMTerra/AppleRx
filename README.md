@@ -21,7 +21,7 @@ To use this project, you need to download a pre-trained model from the given Goo
 
 1. **Download the Model**
    - Click [here](https://drive.google.com/drive/folders/1FZ6SkrxbOBnCbMHx2uivyWQx5YbhCVOs) to open the Google Drive link.
-   - Click **3 dots* and Click on *the **Download** button to save the file to your local system.
+   - Click *3 dots* and Click on the **Download** button to save the file to your local system.
 
 2. **Create the Models Folder**
    - Navigate to the root directory of this project.
